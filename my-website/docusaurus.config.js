@@ -58,7 +58,7 @@ const config = {
           'TWR2019/my-website'
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Chris-git-commits/TWR2019/tree/main/my-website/'
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
