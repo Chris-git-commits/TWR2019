@@ -55,7 +55,7 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          'TWR2019/my-website"
+          'TWR2019/my-website'
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
